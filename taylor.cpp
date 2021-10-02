@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++>
 using namespace std;
  
 double e(int x, int n)
