@@ -1,9 +1,9 @@
-fruits = ["Apple", "Banana","Jackfruit"]
+fruits = ["ORANGE", "Banana","Jackfruit"]
 
 
 print(f'Current Fruits List {fruits}')
 
-f = input("Please enter a fruit name:\n")
-fruits.append(f)
+fE = input("Please enter a fruit name:\n")
+fruits.append(fE)
 
 print(f'Updated Fruits List {fruits}')
