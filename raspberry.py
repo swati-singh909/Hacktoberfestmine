@@ -32,7 +32,7 @@ raw_data=r.json()["feeds"][-1]["field1"]
 
 #print("Enter 1/0 to turn led on/off or any other number to exit from the program ")
 #led_status=0
-while(raw_data==0 or raw_data==1):
+while(raw_data==1 or raw_data==0):
     #led_status=int(input())
     if raw_data==0 or raw_data==1:
         GPIO.output(led_pin,raw_data)
