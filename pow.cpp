@@ -10,6 +10,6 @@ int power(int m,int n)
 int main()
 {
     int r= power(2,3);
-    cout<<"result is"<<r;
+    cout<<"result is :"<<r;
     return 0;
 }
