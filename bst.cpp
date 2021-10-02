@@ -85,10 +85,10 @@ void BST ::Inorder(BST* root)
 int main()
 {
     BST b, *root = NULL;
-    root = b.Insert(root, 50);
-    b.Insert(root, 30);
-    b.Insert(root, 20);
-    b.Insert(root, 40);
+    root = b.Insert(root, 70);
+    b.Insert(root, 60);
+    b.Insert(root, 100);
+    b.Insert(root, 400);
     b.Insert(root, 70);
     b.Insert(root, 60);
     b.Insert(root, 80);
