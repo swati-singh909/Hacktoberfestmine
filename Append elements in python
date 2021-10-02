@@ -1,4 +1,4 @@
-fruits = ["Apple", "Banana"]
+fruits = ["Apple", "Banana","Jackfruit"]
 
 
 print(f'Current Fruits List {fruits}')
