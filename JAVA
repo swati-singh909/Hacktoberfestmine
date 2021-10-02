@@ -4,6 +4,6 @@ class new
 public static void main(String args[])
 {
 Scanner sc  = new Scanner(System.in);
-System.out.println("HELLLO WORLD");
+System.out.println("HELLO WORLD");
 }
 }
