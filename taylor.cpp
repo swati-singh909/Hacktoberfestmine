@@ -26,7 +26,7 @@ double e(int x, int n)
 int main()
 {
     int x = 4, n = 15;
-    cout<<"\n"<< e(x, n);
+    cout<<endl<< e(x, n);
  
     return 0;
 }
