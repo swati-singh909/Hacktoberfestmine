@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+'''
+
+check out my blog on - 0mnific.blogspot.com
+----------------------------------------
+
+What you can ask!
+
+# Applicatons You can open
+1-> open notepad
+2-> open Arduino
+3-> open command prompt
+
+
+# Operations You can perform
+4-> play music / jarvis play music
+5-> show my ip address / show my ip
+6-> what is "Black hole" according to wikipedia
+7-> where am I / Show my location
+8-> What time it is /  tell the time
+9-> jarvis exit / quit
+10-> tell me a joke
+11-> restart
+12-> hibernate
+13-> shutdown
+14-> write a note 
+15-> show note ("firstly you have to write a note for the first time otherwise it will throw an error")
+16-> play "music_name"
+17-> lock window 
+18-> shutdown 
+19-> empty recycle bin
+20-> stop listening
+21-> calculate 
+22-> open youtube
+23-> open google
+24-> open stackoverflow
+25-> blogger
+26-> show news / open latest news
+27-> open instagram
+
+
+
+# Fun commands you can ask
+28-> change my name
+29-> change your name
+30-> what is your name
+31-> Who made you / Who created you
+32-> who am i 
+33-> why you came to world 
+34-> what is love
+35-> who are you
+36-> good morning jarvis
+37-> will you be my gf
+38-> how are you
+39-> i love you 
+40-> How are you
