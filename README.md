@@ -1,27 +1,23 @@
-# Snake-Game
-This Snake Game is Written in Pygame Module. Hope You will like the game.
-You can use this code to write your own game 
+# music-player
 
-## To play This game:
-* Install the Pygame Module, Open CMD and Type:
+This is Music Player GUI , Made using tkinter Module. Hope You will like this.
+You can use this code to write your own GUI
 
-        pip install pygame
 
-     or
-        
-        pip3 install pygame
+## To Use This GUI:
+* Install the requirements.txt Open CMD and Type:
+
+
+       pip install -r .\requirements.txt
+
 
 * Extract the Zip file in C-drive
-* Open cmd and type "cd" then give the path of the "snake.py" file inside folder("Snake-Game")
-* Then type -> "python snake.py"
-* This will run the game , enjoy😄!!!  
+* Open cmd and type "cd" then give the location of the "Omnific_Music_player.py" file inside folder("music-player")
+* Then type -> "python Omnific_Music_player.py"
+* This will run the GUI , enjoy😄!!!  
 
-### Don't delete any file it may crash the game
 
-| Cheats 😄
+### Don't delete any file it may crash the GUI
 
-press 1 to gain extra 10 points.
-
-   * Follow me on instagram at [Omnific](https://www.instagram.com/omni_fic/)
-   * My Blog at [Omnific](http://0mnific.blogspot.com/)
-
+* Follow me on instagram at [Omnific](https://www.instagram.com/omni_fic/)
+* My Blog at [Omnific](http://0mnific.blogspot.com/)
