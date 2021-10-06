@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+body
+{
+    background:rgba(43,53,49,1);
+    background-image: url('../large.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+}
+.ban{
+    width: 100w;
+    height: 100vh;
+}
+.container
+{
+    background:rgba(43,53,49,1);
+}
+@media screen and (max-width: 600px) {
+    body {
+        background-image: url('../small.png');
+    }
+  }
